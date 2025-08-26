@@ -23,7 +23,9 @@ console.groupEnd();
 
 /*opgave 3*/
 console.group("opgave 3");
-
+//i assume you keep the item 2 deleted?
+data.egenskabItems[1] = `changed`
+console.log(data.egenskabItems)
 console.groupEnd();
 
 
