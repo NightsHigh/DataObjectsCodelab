@@ -16,8 +16,8 @@ console.groupEnd();
 /*opgave 2*/
 console.group("opgave 2");
 
-
-
+data.egenskabItems.splice(1,1)
+console.log(data.egenskabItems)
 console.groupEnd();
 
 
